@@ -16,7 +16,7 @@ on epidemiology (as I am an epidemiologist), the ideas and concepts explored her
 While not part of an official course, this repo is made with the idea that it would become an epidemiology course in
 the future.
 
-### A note on language
+## A note on language
 
 In the tutorials, I code in Python. This is for various reasons: (1) I work mostly in Python, (2) I have
 found Python to be quick readable, even to those who don't use it, (3) it is one of the most popular languages for
@@ -25,8 +25,28 @@ language you regularly use (e.g., SAS, R, Stata) will be more informative than s
 
 I may try to provide code in other languages at some point.
 
+## Description
+
+To cover the basic computational tools for common epidemiology (and other quantitative science) tasks.
+
+## Learning Objectives
+
+1. Understand and implement different computational methods for basic quantities and be able to adapt these procedures
+2. Practice translation of mathematical formulas into code
+3. Develop best practices for coding
 
 ## Overview
 
+* L0: Basic data manipulation
 * L1: Computing the proportion
 * L2: Computing the variance
+* L3: Computing the mean
+* L4: Regression
+* L5: Simulation
+* L6: Differential equations
+* L7: ?
+* L8: Special topics
+
+## Readings
+
+TBD
